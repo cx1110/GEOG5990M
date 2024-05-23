@@ -6,6 +6,7 @@ Airbnb (csv) :
 https://insideairbnb.com/get-the-data
 
 London ward(2018): 
+
 https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london 
 
 Code aim
