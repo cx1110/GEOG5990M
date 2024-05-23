@@ -15,4 +15,5 @@ The describtion of domains:
 ‘Overall Experience’(rating)：What was your guest's overall experience? ‘Cleanliness’: Did your guests feel that your space was clean and tidy? ‘Accuracy’:  How accurately did your listing page represent your space? ‘Value’: Did your guest feel your listing provided good value for the price? ‘Communication’: How well did you communicate with your guest before and during their stay? ‘Location’: How did guests feel about your neighborhood? ’Check in’: How smoothly did their check-in go?
 
 Acknowledgements
+
 Use Gen-AI (ChatGPT-4.0) to find out where the code writing process goes wrong and debug errors. And make correction according to the advice.
