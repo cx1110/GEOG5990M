@@ -1,12 +1,13 @@
 The background/context of the project:
+
 Since 2008, Airbnb company has brought a big change in the global hospitality industry. It currently offers more than 6 million rooms in 1 million cities in 191 countries around the world. It currently offers more than 6 million rooms in 1 million cities in 191 countries around the world. The listings on Airbnb's official website can generate a wide range of datasets that are rich in content. These datasets provide potentially valuable information. 
 
 What data the GitHub repository contains:
+
 Airbnb (csv) :  
 https://insideairbnb.com/get-the-data
 
 London ward(2018): 
-
 https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london 
 
 Code aim
