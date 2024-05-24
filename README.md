@@ -1,8 +1,12 @@
 1.The background/context of the project:
 
-Since 2008, Airbnb company has brought a big change in the global hospitality industry. It currently offers more than 6 million rooms in 1 million cities in 191 countries around the world. It currently offers more than 6 million rooms in 1 million cities in 191 countries around the world. The listings on Airbnb's official website can generate a wide range of datasets that are rich in content. These datasets provide potentially valuable information. 
+Since 2008, Airbnb company has brought a big change in the global hospitality industry. It currently offers more than 6 million rooms in 1 million cities in 191 countries around the world. The listings on Airbnb's official website can generate a wide range of datasets that are rich in content. These datasets provide potentially valuable information. Study of the relationship between Airbnb price and 7 domains.
 
-2.What data the GitHub repository contains:
+2.The describtion of domains:
+
+‘Overall Experience’(rating)：What was your guest's overall experience? ‘Cleanliness’: Did your guests feel that your space was clean and tidy? ‘Accuracy’:  How accurately did your listing page represent your space? ‘Value’: Did your guest feel your listing provided good value for the price? ‘Communication’: How well did you communicate with your guest before and during their stay? ‘Location’: How did guests feel about your neighborhood? ’Check in’: How smoothly did their check-in go?
+
+3.What data the GitHub repository contains:
 
 Airbnb (csv) :  https://insideairbnb.com/get-the-data
 
@@ -10,11 +14,8 @@ London ward(2018): https://data.london.gov.uk/dataset/statistical-gis-boundary-f
 
 3.Code aim：
 
-The study uses a dataset of Airbnb in the London ward to explore the relationship between Airbnb’s 'price' and 'Rating’, ‘Value’, ‘Cleanliness’, ‘Communication ‘, ‘Location’, ‘Check in’ and ‘Accuracy’. 
+The study uses a dataset of Airbnb in the London ward to explore the relationship between Airbnb’s 'price' and 'Rating’, ‘Value’, ‘Cleanliness’, ‘Communication ‘, ‘Location’, ‘Check in’ , ‘Accuracy’. 
 
-4.The describtion of domains:
-
-‘Overall Experience’(rating)：What was your guest's overall experience? ‘Cleanliness’: Did your guests feel that your space was clean and tidy? ‘Accuracy’:  How accurately did your listing page represent your space? ‘Value’: Did your guest feel your listing provided good value for the price? ‘Communication’: How well did you communicate with your guest before and during their stay? ‘Location’: How did guests feel about your neighborhood? ’Check in’: How smoothly did their check-in go?
 
 5.Acknowledgements
 
